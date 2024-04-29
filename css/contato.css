@@ -1,0 +1,69 @@
+body{
+    
+    width: 100%;
+    font-family: Rubik, sans-serif;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+main{
+    font-size: 20px;
+    width: 60%;
+    margin: 1rem auto;
+    border:rgb(122, 7, 74) solid 2px;
+    padding: 10px;
+    border-radius: 10px;
+}   
+
+button{
+    width: 20%;
+    font-size: medium;
+    background-color: rgb(180, 61, 101);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius:10px;
+    transition: 0.3s;
+}
+
+div{
+    font-size: 17px;
+}
+
+div.sobrenome{
+    margin-left: -2.67rem;
+}
+
+input{
+    border-radius: 3px;
+    border-width: 50%;
+    border-style: groove ;
+    transition: 0.3s;
+    padding: 4px;
+    margin: 0.3rem;
+}
+select{
+    border-radius: 3px;
+    border: black solid 1.5px ;
+    border-style: groove;
+    transition: 0.3s;
+    width: 27%;
+    height: 40%;
+    text-align: center;
+    font-size: medium;
+}
+
+input:hover{
+    scale: 1.05;
+}
+
+button:hover{
+    scale: 1.1;
+    filter: saturate(1.8);
+}
+
+select:hover{
+    scale: 1.1;
+}
+

@@ -1,0 +1,18 @@
+main{
+    width: 90%; 
+    margin: 1rem auto 2rem auto;
+}
+main section{
+    display: flex; 
+    margin: 0 auto; 
+    justify-content: center;
+}
+main section div{
+    margin-top: 2%;
+    
+}
+
+main section div p{
+    margin-top: 1rem;
+    padding: 10px;
+}

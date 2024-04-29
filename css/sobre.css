@@ -1,0 +1,16 @@
+p{
+    border: rgb(122, 7, 74) solid 2px;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: justify;
+    
+}
+
+main{
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+h1{
+    margin: 1rem;
+}
